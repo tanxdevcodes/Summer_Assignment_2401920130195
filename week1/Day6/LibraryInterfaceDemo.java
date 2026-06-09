@@ -61,7 +61,7 @@ public class LibraryInterfaceDemo {
 
     public static void main(String[] args) {
 
-        System.out.println("===== TEST CASE 1 : KID USER =====");
+        System.out.println("TEST CASE 1 : KID USER");
 
         KidUser kid1 = new KidUser();
         kid1.age = 10;
@@ -79,7 +79,7 @@ public class LibraryInterfaceDemo {
         kid2.bookType = "Fiction";
         kid2.requestBook();
 
-        System.out.println("\n===== TEST CASE 2 : ADULT USER =====");
+        System.out.println(" TEST CASE 2 : ADULT USER ");
 
         AdultUser adult1 = new AdultUser();
         adult1.age = 5;
