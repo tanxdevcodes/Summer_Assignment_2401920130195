@@ -1,5 +1,5 @@
 
-public class Main {
+public class RepeatedSubstringPattern {
 
     public static boolean repeatedSubstringPattern(String s) {
         int n = s.length();
